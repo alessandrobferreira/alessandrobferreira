@@ -8,7 +8,7 @@
   - Inglês intermediário;
   - jogo games e sou fã de filmes e quadrinhos de heróis;                                   
 - Estou estudando Análise e Desenvolvimento de Sistemas e faço parte do programa +devs2blu idealizado pela Proway;
-- Em busca da primeira vaga de dev jr.
+
 
 ## Ferramentas e linguagens que tenho familiaridade:
 
