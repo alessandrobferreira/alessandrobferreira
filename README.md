@@ -9,9 +9,8 @@
   - jogo games e sou fã de filmes e quadrinhos de heróis;                                   
 - Estou estudando Análise e Desenvolvimento de Sistemas.
 
-<a href="(https://www.linkedin.com/in/alessandro-ferreira-a9199a115/)"> 
-  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />          
-</a>
+<a href="https://www.linkedin.com/in/alessandro-ferreira-a9199a115/">LinkedIn</a>
+
 
 
 
