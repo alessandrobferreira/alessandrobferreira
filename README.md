@@ -9,6 +9,12 @@
   - jogo games e sou fã de filmes e quadrinhos de heróis;                                   
 - Estou estudando Análise e Desenvolvimento de Sistemas.
 
+<a href="URL_DO_SEU_PERFIL_DO_LINKEDIN"> 
+  <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />          
+</a>
+
+
+
 
 ## Ferramentas e linguagens que tenho familiaridade:
 
