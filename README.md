@@ -4,10 +4,10 @@
 </div>
 
 -  Em constante aprendizando em tecnologia;
-  - Aprendendo novas linguagens de programação; 
+  - Dev FullStack; 
   - Inglês intermediário;
   - jogo games e sou fã de filmes e quadrinhos de heróis;                                   
-- Estou estudando Análise e Desenvolvimento de Sistemas.
+- Formado em Análise e Desenvolvimento de Sistemas.
 
 ### 📫 Conecte-se comigo no Linkedin!
 
